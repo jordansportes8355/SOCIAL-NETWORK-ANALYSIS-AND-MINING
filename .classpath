@@ -29,5 +29,6 @@
 	<classpathentry kind="lib" path="C:/Users/jorda/workspace/jung-3d-2.0.1.jar"/>
 	<classpathentry kind="lib" path="C:/Users/jorda/workspace/jung-3d-demos-2.0.1.jar"/>
 	<classpathentry kind="lib" path="C:/Users/jorda/workspace/jung-api-2.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jorda/workspace/weka.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
